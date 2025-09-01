@@ -1,0 +1,14 @@
+# NetBeans project files
+nbprojectprivate
+
+# Build outputs
+build
+dist
+.class
+
+# Libraries
+lib.jar
+
+# OS-specific files
+.DS_Store
+Thumbs.db
